@@ -15,7 +15,7 @@ Dashboard interactivo en Power BI que analiza la supervivencia de los **891 pasa
 
 Los segmentadores (slicers) de **género**, **puerto de embarque** y **clase del boleto** filtran todo el dashboard: tarjetas, gráficos y dispersión.
 
-| Mujeres | Hombres |
+| Hombres | Mujeres |
 |---|---|
 | ![Filtro femenino](Dash%20imagenes%20PB/dashboard-filtrado-femenino.png) | ![Filtro masculino](Dash%20imagenes%20PB/dashboard-filtrado-masculino.png) |
 
