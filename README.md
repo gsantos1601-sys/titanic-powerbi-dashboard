@@ -51,7 +51,7 @@ Tasa de fallecidos por grupo = 1 - AVERAGE('Titanic-Dataset'[Survived])
 
 ## 📚 Dataset
 
-Titanic (Kaggle): https://www.kaggle.com/c/titanic
+Titanic
 
 ## 👤 Autor
 
